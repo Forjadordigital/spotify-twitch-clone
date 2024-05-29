@@ -318,4 +318,49 @@ export const songs: Song[] = [
     "album": "Chill Lo-Fi Music",
     "duration": "4:20"
   },
+  {
+    "id": 1,
+    "albumId": 6,
+    "title": "Lost Song",
+    "image": "https://f4.bcbits.com/img/a0363730459_16.jpg",
+    "artists": ["WFS", "Nadav Cohen"],
+    "album": "Like a Necessity",
+    "duration": "1:57"
+  },
+  {
+    "id": 2,
+    "albumId": 6,
+    "title": "Ending time",
+    "image": "https://f4.bcbits.com/img/a0363730459_16.jpg",
+    "artists": ["WFS", "Nadav Cohen"],
+    "album": "Like a Necessity",
+    "duration": "1:49"
+  },
+  {
+    "id": 3,
+    "albumId": 6,
+    "title": "Hope",
+    "image": "https://f4.bcbits.com/img/a0363730459_16.jpg",
+    "artists": ["WFS", "Nadav Cohen"],
+    "album": "Like a Necessity",
+    "duration": "2:36"
+  },
+  {
+    "id": 4,
+    "albumId": 6,
+    "title": "Bombón",
+    "image": "https://f4.bcbits.com/img/a0363730459_16.jpg",
+    "artists": ["WFS", "Nadav Cohen"],
+    "album": "Like a Necessity",
+    "duration": "2:49"
+  },
+  {
+    "id": 5,
+    "albumId": 6,
+    "title": "Time",
+    "image": "https://f4.bcbits.com/img/a0363730459_16.jpg",
+    "artists": ["WFS", "Nadav Cohen"],
+    "album": "Like a Necessity",
+    "duration": "2:29"
+  },
 ]
